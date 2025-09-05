@@ -15,12 +15,12 @@ I specialize in **Python, Data Science, and Generative AI**, with projects spann
 
 </p>
 
-### 🎨 Data  Visualization  
+### 🎨 Data  Visualization  & Data   Analytics 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
-<img src="https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
